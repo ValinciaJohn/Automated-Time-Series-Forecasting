@@ -1,5 +1,4 @@
 # Time Series Forecasting with Automated Model Selection
-
 <sub>This project was developed as part of a hackathon.</sub>
 
 ## Introduction
